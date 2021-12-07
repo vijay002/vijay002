@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vijay Patel
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning vue dotnet core
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web development, asp .net mvc c#, Angular 10,mssql server, Deployment, Server configuration  
+- 🌱 I’m currently learning vue js
+- 💞️ I’m looking to collaborate on totally web based solution
 - 📫 How to reach me ...
 
 <!---
